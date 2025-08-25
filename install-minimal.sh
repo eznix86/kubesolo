@@ -227,4 +227,4 @@ if [ -t 0 ]; then
             /usr/local/bin/kubesolo-ctl start
             ;;
     esac
-fi 
+fi
